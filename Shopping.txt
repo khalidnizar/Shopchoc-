@@ -1,0 +1,57 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ShopChoc.com is For Sale</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #fefefe;
+      color: #333;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
+    .container {
+      max-width: 600px;
+      background: #fff;
+      padding: 40px;
+      border-radius: 16px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      font-size: 2em;
+      color: #5a2d0c;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 1.1em;
+      margin-bottom: 30px;
+    }
+    .buy-button {
+      display: inline-block;
+      padding: 15px 30px;
+      background-color: #5a2d0c;
+      color: #fff;
+      font-size: 1em;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: background-color 0.3s ease;
+    }
+    .buy-button:hover {
+      background-color: #3d1f08;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ShopChoc.com is For Sale</h1>
+    <p>This premium domain is perfect for a chocolate shop, luxury brand, or eCommerce project. Get it now before it's gone!</p>
+    <a href="https://www.afternic.com/domain/shopchoc.com" target="_blank" class="buy-button">Buy on Afternic</a>
+  </div>
+</body>
+</html>
